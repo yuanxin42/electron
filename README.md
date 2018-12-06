@@ -1,28 +1,23 @@
-# my-test
+# electron-vue 编写桌面应用
 
-> An electron-vue project
+> 技术栈vue全家桶 vueX + eslint + vue-router + axios
+
+> node + express + superagent
 
 #### Build Setup
 
-``` bash
-# install dependencies
-npm install
+``` 启服务
 
-# serve with hot reload at localhost:9080
+yarn或者 npm i
+
 npm run dev
 
-# build electron application for production
+# 打包目录
+
 npm run build
 
-# run unit & end-to-end tests
-npm test
+> 会生成一个桌面程序
 
-
-# lint all JS/Vue component files in `src/`
-npm run lint
-
-```
-
----
+# 文档手册 https://electron.org.cn/vue/index.html
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
