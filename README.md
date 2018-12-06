@@ -18,4 +18,4 @@ npm run build
 
 > 会生成一个桌面程序
 
-# 文档手册 https://electron.org.cn/vue/index.html
+> 文档手册 https://electron.org.cn/vue/index.html
